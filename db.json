@@ -1,0 +1,92 @@
+{"Productos":
+    [
+        {
+            "id":1,
+            "title":"probando actualizar",
+            "description":"actulizando un objeto",
+            "price":2000,
+            "thumbnail":"imagen actualizacion",
+            "code":1233,
+            "stock":20},
+        {
+            "id" : 2,
+            "title" : "Prueba2",
+            "description" : "Estamos probando2",
+            "price" : 10002,
+            "thumbnail" : "estoEsUnaImagen2",
+            "code" : 202,
+            "stock" : 2002
+        },
+        {
+        "id": 3,
+        "title" : "probando actualizar",
+        "description" : "actulizando un objeto",
+        "price" : 2000,
+        "thumbnail" : "imagen actualizacion",
+        "code" : 13233,
+        "stock" : 20
+        },
+        {
+            "id": 4,
+            "title" : "objeto4",
+            "description" : "Este es el objeto numero 4",
+            "price" : 2000,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 12353,
+            "stock" : 201
+        },
+        {
+            "id": 5,
+            "title" : "objeto5",
+            "description" : "Este es el objeto numero 5",
+            "price" : 2000,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 12331,
+            "stock" : 2012
+        },
+        {
+            "id": 6,
+            "title" : "objeto6",
+            "description" : "Este es el objeto numero 6",
+            "price" : 2000,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 63,
+            "stock" : 21
+        },
+        {
+            "id": 7,
+            "title" : "objeto7",
+            "description" : "Este es el objeto numero 7",
+            "price" : 1000,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 113,
+            "stock" : 11
+        },
+        {
+            "id": 8,
+            "title" : "objeto 8",
+            "description" : "Este es el objeto numero 8",
+            "price" : 900,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 566,
+            "stock" : 1
+        },
+        {
+            "id": 9,
+            "title" : "objeto9",
+            "description" : "Este es el objeto numero 9",
+            "price" : 213,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 1341,
+            "stock" : 22
+        },
+        {
+            "id": 10,
+            "title" : "objeto4",
+            "description" : "Este es el objeto numero 10",
+            "price" : 100,
+            "thumbnail" : "imagen actualizacion",
+            "code" : 13,
+            "stock" : 2011
+        }
+]}
